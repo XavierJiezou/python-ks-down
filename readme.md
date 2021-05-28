@@ -19,6 +19,7 @@ Input a video url from [kuaishou](https://www.kuaishou.com/), like: [https://v.k
 100%|█████████████| 6/6 [00:00<00:00, 1983.12KB/s]
 下载完成，总计用时3秒。
 ```
+[3xyaezs2t5k3srs_b.mp4](3xyaezs2t5k3srs_b.mp4) is the video that just downloaded.
 # Unpack
 ```bash
 git clone https://github.com/XavierJiezou/python-ks-down.git
