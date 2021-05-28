@@ -32,6 +32,6 @@ pip install pyinstaller
 pyinstaller -F -i favicon.ico down.py
 ```
 ---
-Note: building EXE is placed in the `dist` folder.
+Note: Building EXE is placed in the `dist` folder.
 # Download
 > [ksdown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-ks-down/releases/download/1.0.0/ksdown-1.0.0-win64.exe)
