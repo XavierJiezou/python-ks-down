@@ -10,7 +10,7 @@ pip install requests tqdm
 1. Git clone adn run `down.py`.
 ```bash
 git clone https://github.com/XavierJiezou/python-ks-down.git
-cd python-ksdown
+cd python-ks-down
 python down.py
 ```
 2. Input a video url from [kuaishou](https://www.kuaishou.com/), like: [https://v.kuaishou.com/5i7XWC](https://v.kuaishou.com/5i7XWC).
@@ -24,7 +24,7 @@ python down.py
 # Unpack
 ```bash
 git clone https://github.com/XavierJiezou/python-ks-down.git
-cd python-ksdown
+cd python-ks-down
 pipenv install
 pipenv shell
 pip install requests tqdm
