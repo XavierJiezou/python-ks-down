@@ -1,8 +1,8 @@
-English | [简体中文](README.zh.md)
+English | [简体中文](/README.zh.md)
 # Introduction
 A small program for downloading [kuaishou](https://www.kuaishou.com/) short videos (without watermark) , which is made with Python.
 # Demo
-![demo.gif](demo.gif)
+![demo.gif](/demo.gif)
 # Install
 ```bash
 pip install requests tqdm
