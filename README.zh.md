@@ -1,8 +1,8 @@
-简体中文 | [English](README.md)
+简体中文 | [English](/README.md)
 # 简介
 用Python制作的，一个下载[快手](https://www.kuaishou.com/)无水印短视频的小程序。
 # 演示
-![demo.gif](demo.gif)
+![demo.gif](/demo.gif) 
 # 安装
 ```bash
 pip install requests tqdm
@@ -36,3 +36,5 @@ pyinstaller -F -i favicon.ico down.py
 注意：构建后的EXE文件放在`dist`文件夹中。
 # 下载
 > [ksdown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-ks-down/releases/download/1.0.0/ksdown-1.0.0-win64.exe)
+# Recommend
+> [python-dy-down](https://github.com/XavierJiezou/python-ks-down): 一个下载抖音无水印短视频的小程序。

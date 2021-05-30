@@ -36,3 +36,5 @@ pyinstaller -F -i favicon.ico down.py
 Note: Building EXE is placed in the `dist` folder.
 # Download
 > [ksdown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-ks-down/releases/download/1.0.0/ksdown-1.0.0-win64.exe)
+# Recommend
+> [python-dy-down](https://github.com/XavierJiezou/python-ks-down): A small program for downloading [duouyin](https://www.douyin.com/) short videos.
