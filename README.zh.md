@@ -36,5 +36,5 @@ pyinstaller -F -i favicon.ico down.py
 注意：构建后的EXE文件放在`dist`文件夹中。
 # 下载
 > [ksdown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-ks-down/releases/download/1.0.0/ksdown-1.0.0-win64.exe)
-# Recommend
+# 推荐
 > [python-dy-down](https://github.com/XavierJiezou/python-ks-down): 一个下载抖音无水印短视频的小程序。
