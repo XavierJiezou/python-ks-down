@@ -8,7 +8,7 @@
 pip install requests tqdm
 ```
 # 用法
-1. 克隆仓库后运行`down.py`。
+1. 克隆仓库并运行`down.py`。
 ```bash
 git clone https://github.com/XavierJiezou/python-ks-down.git
 cd python-ks-down
